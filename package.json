@@ -1,0 +1,22 @@
+{
+  "name": "curlew.js",
+  "version": "1.0.0",
+  "description": "A simple arguments parser for NodeJS",
+  "main": "curlew.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treast/curlew.js.git"
+  },
+  "keywords": [
+    "arguments"
+  ],
+  "author": "Vincent Riva <vincent.riva@outlook.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Treast/curlew.js/issues"
+  },
+  "homepage": "https://github.com/Treast/curlew.js#readme"
+}
