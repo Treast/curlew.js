@@ -11,7 +11,13 @@
     "url": "git+https://github.com/Treast/curlew.js.git"
   },
   "keywords": [
-    "arguments"
+    "curlew.js",
+    "curlew",
+    "arguments",
+    "arguments parser",
+    "argument parser",
+    "parser",
+    "argument"
   ],
   "author": "Vincent Riva <vincent.riva@outlook.fr>",
   "license": "ISC",
