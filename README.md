@@ -8,7 +8,7 @@
 - [Usage](#usage)
 	- [Import](#import)
 	- [Example](#example)
-	- [Configuration](#configuration)
+	- [Options](#options)
 
 # Installation
 ## With NPM (recommended)
