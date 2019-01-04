@@ -1,6 +1,6 @@
 {
   "name": "curlew.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple arguments parser for NodeJS",
   "main": "curlew.js",
   "scripts": {
