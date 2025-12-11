@@ -1,13 +1,16 @@
-// Called script: "node example.js --firstKey firstValue --secondKey -a bar"
+// Called script: "node example.js --firstKey firstValue --secondKey -a bar baz"
+import curlew from './curlew';
+
 const defaults = {
-	key: 'value'
+  key: 'value',
 };
 
-const arguments = require('./curlew.js').init(defaults);
-console.log(arguments);
+const args = curlew.init(defaults);
+console.log(args);
 /*
 	{
 		key: 'value',
+		_: [ 'baz' ],
 		firstKey: 'firstValue',
 		secondKey: true,
 		a: 'bar'
