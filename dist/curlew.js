@@ -49,3 +49,4 @@ class Curlew {
     }
 }
 exports.default = new Curlew();
+//# sourceMappingURL=curlew.js.map
